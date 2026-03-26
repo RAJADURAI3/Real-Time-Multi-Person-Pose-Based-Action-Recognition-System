@@ -1,6 +1,6 @@
  🧠 Gesture AI Demo
 
-**Real-time human pose estimation and gesture control using PyTorch, YOLOv8, and OpenCV.**
+**Real-Time Multi-Person Pose-Based Action Recognition System.**
 
 ## 📖 Overview
 This project demonstrates a modular and responsive gesture recognition system powered by **YOLOv8-Pose (Ultralytics)** and **PyTorch**.  
